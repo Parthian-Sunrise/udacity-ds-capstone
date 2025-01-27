@@ -1,0 +1,10 @@
+numpy
+pandas
+pre-commit
+black
+flake8
+nbstripout
+matplotlib
+seaborn
+scikit-learn
+tqdm
